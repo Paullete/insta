@@ -1,8 +1,8 @@
 Hello {{name}},
-Welcome to the web-app that emulates the operation of the instagram. Feel free to update your profile, 
+This web-app that emulates the operation of the instagram. Play around and update your profile, 
 make post(s), <br> comment(s), like and share posts. Also you may follow and unfollow idividuals.
-Feel at home.
+Try it!!
 
-Your Developer,
+Your Tech Sis,
 Paulette Nereah.
 https://github.com/paullete
