@@ -206,3 +206,6 @@ def update_profile(request,id):
             
     ctx = {"form":form}
     return render(request, 'profile/update_profile.html', ctx)
+    
+    
+    
